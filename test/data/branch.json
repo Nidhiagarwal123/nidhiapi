@@ -1,0 +1,37 @@
+ {
+    "orgId":"6c04a48e-8be0-4397-874f-233626ffb1f3",
+    "name": "Hurreh Technologies Pvt Ltd",
+    "inaugurationDate": "11/10/2016",
+    "inauguratedBy":null,
+    "isDefault": true,
+    "contacts": [{
+        "type": "Mobile",
+        "number": "9886681566",
+        "validated": true
+    }],
+    "emails":[{
+        "type": "Work",
+        "id": "support@hurreh.com",
+        "validated": true
+    }],
+   
+    "address":{
+        "type": "Work",
+        "street": "#303, JC Residency, 2/21-2 Sarakki Main Road",
+        "province": "JP Nagar 1st Pahse",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "pin": "560078",
+        "validated": true
+    },
+    "socialAccount":null,
+    "website": null,
+    "instantMessager":null,
+    "description": "Hurreh HQ",
+    "enableSms": true,
+    "enableEmail": true,
+    "status": "active"
+}
+
+94318cbc-f37c-430f-932b-ff2f84cc2113

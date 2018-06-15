@@ -1,0 +1,160 @@
+<style type="text/css">
+.col-md-8{ width:50%; float:left}
+.col-md-4{ width:30%; float:right}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 0px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    bgcolor:white;
+    font-size:12px;
+}
+
+td{
+	background-color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+th {
+	text-align: left;
+    font-weight: 400;
+    font-size:12px;
+    text-transform: uppercase;
+}
+th.bg{
+	background-color: #696969;
+	color: #fff;
+}
+.form-group {
+    content: " ";
+    width:90%; 
+    float:right
+}
+h3 {
+    font-size:10px;
+}
+label {
+    font-size:10px;
+}
+label {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.col-md-3 {
+    width: 100%;
+    float: left;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+.price{
+	padding-left: 50px;
+}
+</style>
+<div class="container" style="margin-left: 5px;margin-right: 5px;">
+		<table>
+			<tr>
+				<th width="50%"></th>
+				<th width="50%"></th>
+			</tr>
+			<tr>
+				<td>
+			    	<div class="logo" style="margin-top: -61px;">
+			    		<img alt="" src="<%= isrc %>">
+			    	</div>
+			    </td>
+		    	<td>
+			    	<div>
+			    		<h3 class="text-right"><b>QUOTATION #:</b> <span id="qoteno"><%= qno %></span></h3>
+						<h3 class="text-right"><b>PAN NO:</b> <span id="pan"><%= pan %></span></h3>
+						<h3 class="text-right"><b>GSTIN NO:</b> <span id="gst"> <%= gst %></span></h3>
+						<h3 class="text-right"><b>DATE:</b> <span id="date"><%= date %></span></h3>
+			    	</div>
+		    	</td>
+		    </tr>
+	    </table>
+	</div>
+	
+	<table>
+	  <tr>
+	    <th width="50%"><b>Quotation From</b></th>
+	    <th width="50%"><b>Quotation To</b></th>
+	  </tr>
+	  <tr>
+	    <td><%- from %></td>
+	    <td><%- to %></td>
+	  </tr>
+	</table>
+	<br>
+	<br>
+   	<div class="row">
+        <table style="padding-top: 20px;">
+        <thead>
+		  <tr>
+		    <th class="text-left bg" style="width:30%;background-color: #696969 !important;color: #fff;"><b>Item</b></th>
+		    <th class="text-left bg" style="width:20%;background-color: #696969 !important;color: #fff;"><b>Price</b></th> 
+		    <th class="text-left bg" style="width:20%;background-color: #696969 !important;color: #fff;"><b>Quantity</b></th>
+		    <th class="text-right bg" style="width:30%;background-color: #696969 !important;color: #fff;"><b>Amount</b></th>
+		  </tr>
+		</thead>  
+        <tbody>
+                <% if(tableData && tableData.length >0){ for (i = 0; i < tableData.length; i++) { %>
+		            <% var row = tableData[i]; %>
+	                    <tr>
+	                        <td><%= row.item %></td>
+	                        <td><%= row.price %></td>
+	                        <td><%= row.quantity %></td>
+		                    <td><%= row.amount %></td>
+	                    </tr>
+		        <% } }%>
+
+                <tr>
+                	<td colspan="4"><hr></td>
+                </tr>
+
+                <tr>
+                	<td colspan="3" style="text-align: right;"><b>Sub Total:</b></td>
+                	<td align="right" width="100%"><%= stotal %></td>
+                </tr>
+                <tr>
+                	<td colspan="3" style="text-align: right;"><b>Tax:</b></td>
+                	<td align="right" width="100%"><%= tax %></td>
+                </tr>
+                <tr>
+                	<td colspan="3" style="text-align: right;"><b>Discount:</b></td>
+                	<td align="right" width="100%"><%= discount %></td>
+                </tr>
+                <tr>
+                	<td colspan="3" style="text-align: right;"><b>Total:</b></td>
+                	<td align="right" width="100%"><%= total %></td>
+                </tr>
+
+        	</tbody>
+		</table>
+    </div>
+    <hr>
+    <div class="row">
+	    <div class="col-md-9" style="float: left; width:100%;">
+	    	<h3 class="text-left" style="margin-top: 20px;margin-left: 5px;  margin-bottom: 5px;"><b>Note :</b></h3>
+	    	<div class="col-md-9" style="font-size:12px; padding-left: 5px;"><%- note %></div>
+	    </div>
+
+	</div> 
+	<div class="row">
+	    <div class="col-md-9" style="float: left; width:100%;">
+	    	<h3 class="text-left" style="margin-top: 20px;margin-left: 5px;  margin-bottom: 5px;"><b>Terms :</b></h3>
+	    	<div class="col-md-9" style="font-size:12px; padding-left: 5px;"><%- terms %></div>
+	    </div>
+
+	</div>  
+</div>

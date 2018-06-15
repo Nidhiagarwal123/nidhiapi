@@ -1,0 +1,26 @@
+{
+
+    "branchId": "27d4784c-a790-42d3-85fa-17a824a75c0b",
+    "orgId": "cc5dc0d1-a945-4113-8c76-0efd91e8111d",
+    "name": "interrior painting",
+    "parentId": null,
+    "metaServiceId" :null,
+    "serviceMediaId" :null,
+    "minPrice": 46.78,
+    "maxPrice": 67.00,
+    "metaTitle": null,
+    "metaLocTitle": null,
+    "metaDescription": null,
+    "metaLocDescription": null,
+    "metaKeywords": null,
+    "popular": true,
+    "frequencyValue": 2,
+    "coverMedia" : null,
+    "icon" :null,
+    "description": null,
+
+   "slots": [{
+        "slotId": "c904ebff-4e81-4fe5-bc5e-d46519efc3c4",
+        "maxSlots":2
+    }]
+}

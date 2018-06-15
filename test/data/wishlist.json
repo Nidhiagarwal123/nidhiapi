@@ -1,0 +1,13 @@
+{
+	"eventId": "356c0a65-130e-4a5d-a1ea-814d1d4ee134",
+    "name": "My Wishlist",
+    "items":[{  
+        "productId": "37c70dcf-b68f-43da-ae98-f5a00055b1a9",
+        "name": "car",
+        "url": "http://www.amazon.in/Saffire-Off-Road-Hummer-Monster-Racing/dp/B01FNPESCM/ref=sr_1_2?ie=UTF8&qid=1469793942&sr=8-2&keywords=car"
+    },{  
+        "productId": "37c70dcf-b68f-43da-ae98-f5a00055b19",
+        "name": "Bike",
+        "url": "http://www.amazon.in/Saffire-Off-Road-Hummer-Monster-Racing/dp/B01FNPESCM/ref=sr_1_2?ie=UTF8&qid=1469793942&sr=8-2&keywords=car"
+    }]
+}    

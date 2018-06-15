@@ -1,0 +1,14 @@
+{  "branchId":"27d4784c-a790-42d3-85fa-17a824a75c0b",
+    "leadId":"bb73e97e-8cae-4229-ab8b-7567f10d58a7",
+    "orgId":"cc5dc0d1-a945-4113-8c76-0efd91e8111d",
+    "name":"yghfghf",
+    "description":"fhfgh",
+    "title":"ghgj",
+    "subTitle":"tryt",
+    "subTotal" :7425,
+    "taxes" :745,
+    "grandTotal" :42452,
+    "lineItems" :[{"type" :"items", "name" :"fdsgh","price" :345,"quantity" :2,"discount" :0,"total" :690}],
+    "enableSms": true,
+    "enableEmail": true
+}

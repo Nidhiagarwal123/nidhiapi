@@ -1,0 +1,9 @@
+{
+	"branchid" :"27d4784c-a790-42d3-85fa-17a824a75c0b",
+    "orgId": "cc5dc0d1-a945-4113-8c76-0efd91e8111d",
+    "name": "painting",
+    "fromHour" :"2016-11-04T18:30:00.000Z",
+    "toHour" :"2016-11-04T20:30:00.000Z",
+    "hours" :5,
+    "description" :"qwwerty"
+}

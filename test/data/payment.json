@@ -1,0 +1,15 @@
+ {
+    "branchId":"adfe057c-5331-4561-b471-a56dd84d7d7c",
+    "jobId": null,
+    "orderId" : "6494db14-f7b2-4af3-961d-a562f2342c0c",
+    "amount": 3254 ,
+    "remarks": "good",
+    "scheduledDueDate":"2016-05-30T05:47:13.996Z",
+    "completionDueDate":"2016-06-05T05:47:13.996Z",
+    "transactionCreated": true,
+    "description": "qwertyytuj",
+    "enableSms": true,
+    "enableEmail": true,
+    "status": "active"
+}
+ 

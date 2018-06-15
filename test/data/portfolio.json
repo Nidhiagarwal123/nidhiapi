@@ -1,0 +1,30 @@
+  {
+  	"website": "http://hurreh.com",
+    "socialAccount":null,
+	"smsProvider": {
+        "authKey": "98449AnRe5udN5651fc44" ,
+        "name": "MSG91" ,
+        "senderId": "HURREH"
+    },
+    "emailProvider": {
+        "auth": {
+            "pass": "support@123" ,
+            "user": "support@hurreh.com"
+        } ,
+        "host": "smtp.gmail.com" ,
+        "port": 465 ,
+        "secure": true
+    } ,
+    "contacts": null,
+    "emails":[{
+        "type":"Work",
+        "id": "support@onground.in",
+        "validated": true
+    }],
+    "name": "Hurreh.com",
+    "parishable": false,
+    "tangible" : true,
+    "enableSms": true,
+    "enableEmail": true
+}
+ 

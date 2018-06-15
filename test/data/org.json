@@ -1,0 +1,70 @@
+{
+
+    "address": {
+        "city": "Bangalore" ,
+        "country": "India" ,
+        "pin": 560078 ,
+        "province": "JP Nagar 1st Pahse" ,
+        "state": "Karnataka" ,
+        "street": "#303, JC Residency, 2/21-2 Sarakki Main Road" ,
+        "type": "Work" ,
+        "validated": true
+    } ,
+    "categories": [
+        "Computer Software"
+    ] ,
+    "contacts": [
+        {
+            "number": "9886681566" ,
+            "type": "Mobile" ,
+            "validated": true
+        }
+    ] ,
+    "description": "Hurreh is a b2b company" ,
+    "email": "manohar@hurreh.com", 
+    "emailProvider": {
+        "auth": {
+            "pass": "support@123" ,
+            "user": "support@hurreh.com", 
+        } ,
+        "host": "smtp.gmail.com" ,
+        "port": 465 ,
+        "secure": true
+    } ,
+    "emails": [
+        {
+            "id": "support@hurreh.com", 
+            "type": "Work" ,
+            "validated": true
+        }
+    ] ,
+    "geoLocation": null ,
+    "instantMessager": null ,
+    "logo": null ,
+    "mobile": 9886681566 ,
+    "name": "Hurreh Technologies" ,
+    "orgType": "service-provider" ,
+    "referralCode": null ,
+    "registration": {
+        "number": "" ,
+        "pan": "AETPN5709G" ,
+        "serviceTax": null ,
+        "tan": null ,
+        "tin": null
+    } ,
+    "smsProvider": {
+        "authKey": "98449AnRe5udN5651fc44" ,
+        "name": "MSG91" ,
+        "senderId": "ONGRND"
+    } ,
+    "socialAccount": null ,
+    "startDate": "Mon Nov 09 2015 18:30:00 GMT+00:00 ",
+    "status": "active" ,
+    "website": [
+        {
+            "type": "Homepage" ,
+            "url": "http://hurreh.com"
+        }
+    ]
+
+}

@@ -1,0 +1,11 @@
+{
+    "branchId":"adfe057c-5331-4561-b471-a56dd84d7d7c",
+    "orgId":"f1ca6aed-3c84-4e1d-b4aa-c3a9a097e77d",
+    "name" : "silan",
+    "mobile": 9066364784,
+    "email" :"subhrajyoti34@gmail.com",
+    "message": "qwerty",
+    "enableSms": true,
+    "enableEmail": true,
+    "status": "active"
+}

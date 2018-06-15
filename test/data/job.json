@@ -1,0 +1,22 @@
+{
+
+    "branchId" :"27d4784c-a790-42d3-85fa-17a824a75c0b",
+    "serviceId" :"23d61e10-1d3b-4675-852b-5ccfd0ba5ec4",
+    "orgId": "cc5dc0d1-a945-4113-8c76-0efd91e8111d",
+    "leadId": "bb73e97e-8cae-4229-ab8b-7567f10d58a7",
+    "referenceNumber":null,
+    "requestedDueDate":"2016-05-20T05:47:13.996Z",
+    "scheduledDueDate":"2016-05-30T05:47:13.996Z",
+    "estimateDueDate":"2016-05-31T05:47:13.996Z",
+    "completionDueDate":"2016-06-30T05:47:13.996Z",
+    "estimatedTotal": 25362,
+    "netTotal":3254,
+    "taxes":234,
+    "grossTotal":234344,
+    "reviewed": true,
+    "paymentCollected":false,
+    "serviceAgreementNeeded": false
+
+}
+   
+    

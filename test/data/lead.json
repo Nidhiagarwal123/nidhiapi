@@ -1,0 +1,31 @@
+{
+    "branchId":"27d4784c-a790-42d3-85fa-17a824a75c0b",
+    "customerId":"97e1ab31-a0ef-485f-9222-a352d18bab55",
+    "orgId":"cc5dc0d1-a945-4113-8c76-0efd91e8111d",
+    "serviceId":"23d61e10-1d3b-4675-852b-5ccfd0ba5ec4",
+    "couponId":"3afd2f6e-8c4d-4d0c-82b2-63ad2c1b7cc5",
+    "referenceNumber":null,
+    "referralId":null,
+    "referralTrackingId":null,
+    "city":"Bangalore",
+    "dueDate":"11/11/2016",
+    "address":{
+        "street": "1st cross",
+        "province": "Jp Nagar",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "pin": 560078,
+        "validated": false
+    },
+    "inspection" :[{
+                    "scheduledDueDate" :"11/05/2016", 
+                    "employeeId" :null,
+                    "completionDueDate" :"11/05/2016",
+                    "chargesApplicable" :false
+                }],
+    "description": null,
+    "enableSms": true,
+    "enableEmail": true,
+    "status": "active"
+}

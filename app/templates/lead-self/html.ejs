@@ -1,0 +1,17 @@
+<link href="/style.scss" rel="stylesheet" />Dear <%= pName %>,<br>
+<br>You have got a new service request: <%= leadId %>. Please find below details:<br>
+<br>Customer: <%= name %>
+<br>Mobile: <%= mobile %>
+<br>Email: <%= (email != undefined ? email: '') %>
+<br>Service: <%= sName %>
+<br>Date: <%=(dueDate != undefined ? dueDate: '') %>
+<br>Address: <%= (address != undefined ? address: '') %>
+<br>Description: <%= (description != undefined ? description: '') %>
+
+<br><br>
+Please visit <a href="https://www.zinetgo.com">https://www.zinetgo.com</a> for more details.
+<br><br>Sincerely,
+<br>Team Zinetgo
+<br><a href="https://www.zinetgo.com">https://www.zinetgo.com</a>
+<br><a href="mailto:support@zinetgo.com">support@zinetgo.com</a>
+<br><a href="tel:+918026644556">+91 80 2664 4556</a>

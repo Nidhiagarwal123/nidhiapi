@@ -1,0 +1,43 @@
+{
+    "name": "Onground.in " ,
+    "mobile": 9040425923,
+    "email": "care@onground.in",
+    "address":[{
+    "type": "Home",
+    "street": "1st cross",
+    "province": "Jp Nagar",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "pin": "560078",
+    "validated": false
+     }],
+    "website": "http://onground.in",
+    "socialAccount":null,
+    "instantMessager":null,
+    "referralCode": null,
+    "picture": null,
+    "status": "active",
+    "password": "mani1234",
+    "smsProvider": {
+        "authKey": "98449AnRe5udN5651fc44" ,
+        "name": "MSG91" ,
+        "senderId": "ONGRND"
+    },
+    "emailProvider": {
+        "auth": {
+            "pass": "support@123" ,
+            "user": "support@hurreh.com"
+        } ,
+        "host": "smtp.gmail.com" ,
+        "port": 465 ,
+        "secure": true
+    } ,
+    "contacts": null,
+    "emails":[{
+        "type":"Work",
+        "id": "support@onground.in",
+        "validated": true
+    }],
+    "emailValidated": false
+}

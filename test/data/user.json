@@ -1,0 +1,36 @@
+{   
+    "mobile":9886681566,
+    "password": "mani1234",
+    "profiles":[{"orgId":"2fdfe78c-b94b-471f-8b5d-9ff9936dd7d0","roles":["employee"],"type": "org"}],
+    "email":"manohar@hurreh.com",
+    "name":"Manohar",
+    "dob":"13 Jan 1982",
+    "address":[{
+        "type": "Home",
+        "street": "1st cross",
+        "province": "Jp Nagar",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "pin": "560078",
+        "validated": false
+    }],
+    "website":null,
+    "socialAccount":[{
+        "type":"Facebook",
+        "url": "facebook.com/subhrajyoti79"
+    }],
+    "instantMessager":[{
+        "type":"Facebook",
+        "url": "facebook.com/subhrajyoti79"
+    }],
+    "picture":null,
+    "smsProvider": {
+
+    "authKey": "98449AnRe5udN5651fc44" ,
+    "name": "MSG91" ,
+    "senderId": "HURREH"
+
+} ,
+    "status": "active"
+}

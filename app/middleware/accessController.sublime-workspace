@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"o",
+				"orgType"
+			],
+			[
+				"eve",
+				"eventType"
+			],
+			[
+				"wa",
+				"WaEventType"
+			],
+			[
+				"WaE",
+				"WaEventType"
+			],
+			[
+				"fro",
+				"fromDate"
+			],
+			[
+				"leave",
+				"leaveType1"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"new",
+				"newAttendance"
+			],
+			[
+				"fr",
+				"fromDate"
+			],
+			[
+				"sa",
+				"salaryComponent"
+			],
+			[
+				"sal",
+				"salaryComponentService"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/silan/chartApp/.gitignore",
+		"/home/silan/chartApp/index.js",
+		"/home/silan/chartApp/package.json",
+		"/home/silan/chartApp/index.html",
+		"/home/silan/Desktop/chart_app/index.ejs",
+		"/home/silan/bitbucket/hurreh/api/app/service/pdfservice.js",
+		"/home/silan/bitbucket/hurreh/api/app/model/waEventType.js",
+		"/home/silan/bitbucket/hurreh/api/server.js",
+		"/home/silan/bitbucket/hurreh/api/app/model/waActivity.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/waActivityservice.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/dashboardService.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/waActivityTypeservice.js",
+		"/home/silan/bitbucket/hurreh/api/app/model/waEvent.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/waEventservice.js",
+		"/home/silan/bitbucket/hurreh/api/app/model/waActivityType.js",
+		"/home/silan/bitbucket/hurreh/api/app/model/activityType.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/waEventTypeservice.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/eventservice.js",
+		"/home/silan/bitbucket/hurreh/api/app/model/employee.js",
+		"/home/silan/bitbucket/hurreh/api/app/model/leaveType.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/empLeaveservice.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/attendanceservice.js",
+		"/home/silan/bitbucket/hurreh/api/app/model/salaryComponent.js",
+		"/home/silan/bitbucket/hurreh/api/app/model/salary.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/registrationservice.js",
+		"/home/silan/bitbucket/hurreh/api/app/service/salaryComponentservice.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"id",
+			"\"id\":  \"1c551113-28be-4e32-88fd-008925195e5e\" ,\n\"",
+			" ,\n\"d",
+			"\"createdOn\": ",
+			"\n}",
+			"\"updatedOn\": ",
+			"- or -",
+			"Activitys",
+			"event",
+			"waEventTypeService",
+			"eventType",
+			"waEvent",
+			"WaEvent",
+			"waEvent",
+			"WaEvent",
+			"Event",
+			"event",
+			"Event",
+			"event",
+			"Event",
+			"waWaEvent",
+			"WaWaEvent",
+			"event",
+			"Event",
+			"aggregator",
+			"Aggregator",
+			"event",
+			"Event",
+			"event",
+			"Event",
+			"event",
+			"Event",
+			"res",
+			"loss of pay",
+			"aDa",
+			"atte",
+			"SalaryComponent",
+			"salaryComponent",
+			"coupon",
+			"Coupon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"\" ,\n\"d",
+			"\"createdOn\": \"",
+			"\"\n},",
+			"\"updatedOn\": \"",
+			"",
+			"Activities",
+			"activity",
+			"waActivityTypeService",
+			"activityType",
+			"waActivity",
+			"WaActivity",
+			"waActivity",
+			"WaActivity",
+			"Activity",
+			"activity",
+			"Activity",
+			"activity",
+			"Activity",
+			"waEvent",
+			"WaEvent",
+			"waEvent",
+			"WaEvent",
+			"waEventType",
+			"WaEventType",
+			"waEvent",
+			"WaEvent",
+			"waEvent",
+			"WaEvent",
+			"WaEventType",
+			"waEventType",
+			"WaEventType",
+			"LOP",
+			"Salary",
+			"salary",
+			"salaryComponent",
+			"SalaryComponent"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "accessController.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

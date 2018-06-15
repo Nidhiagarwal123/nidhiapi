@@ -1,0 +1,12 @@
+{
+    "name":"Silan",
+    "mobile":9090807060,
+    "departmentId":"eff1948b-3706-499a-bfa4-dcd3de666205",
+    "startDate":"11/05/2016",
+    "managerId":null,
+    "endDate":null,
+    "picture":null,
+    "role":"employee",
+    "description": null,
+    "status": "active"
+}
